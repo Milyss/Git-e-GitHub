@@ -1,5 +1,5 @@
 
-## **GIT e GITHUB Versionamento 🤓 **
+## GIT e GITHUB Versionamento 🤓 
 
 **🧭 Configurações iniciais do Git**
 
