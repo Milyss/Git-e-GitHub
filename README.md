@@ -56,7 +56,7 @@
 
 `git reset --soft "usa o hash"`  pega os arquivos antigos do commit
 
-`git reset --mixed "usa o hash"`  ???
+`git reset --mixed "usa o hash"`  
 
 `git reset --hard "usa o hash"` ele retorna tudo que estava no commit da hash
 
